@@ -8,7 +8,7 @@ Make sure you have the following installed on your machine:
 
 - Python (version 3.x)
 - Flask (install using `pip install flask`)
-- data available in https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- The data is available at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Getting Started
 
